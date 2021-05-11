@@ -1,5 +1,8 @@
 
 def binary_search(array,num):
+    """
+	this is a test py
+    """
     if not array:
         return -1
     mid = 0
