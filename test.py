@@ -2,7 +2,7 @@
 def binary_search(array,num):
     if not array:
         return -1
-
+    mid = 0
     left = 0
     right = len(array)-1
 
